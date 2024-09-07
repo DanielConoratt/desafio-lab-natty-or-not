@@ -7,28 +7,22 @@ de como essa tecnologia pode revolucionar a saúde de um modo geral.
 
 ## 🤖 Tecnologias Utilizadas
 
-IAs utilizadas
+## IAs Utilizadas
 
-    <ul>
-    <li><strong>ChatGPT:</strong>
-        <p style="margin-left: 20px;">Iniciei o projeto solicitando ao ChatGPT a criação de um roteiro para um podcast com o tema "IAs na Saúde.</p>
-    </li>
-    <li><strong>ElevenLabs:</strong>
-        <p style="margin-left: 20px;">ElevenLabs é uma ferramenta de geração de narrações, onde é possível escolher a voz que irá narrar e controlar suas entonações e emoções. Para a narração do podcast, utilizei o roteiro gerado pelo ChatGPT na ferramenta ElevenLabs, ajustando as tonalidades das vozes escolhidas dentro da plataforma, usando a opção "Text to Speech", onde a mesma transforma o em voz.</p>
-    </li>
-    <li><strong>Leonard IA e Bing Image Create:</strong>
-        <p style="margin-left: 20px;">Também utilizei as ferramenta Leonard IA e Bing Image Create, para gerar o plano de fundo.</p>
-    </li>
-</ul>
-<p><strong>Além das IA's citadas, também foi utilizada a seguinte ferramenta:</strong></p>
+- **ChatGPT:**
+  Iniciei o projeto solicitando ao ChatGPT a criação de um roteiro para um podcast com o tema "IAs na Saúde".
 
-<ul>
-    <li><strong>Microsoft ClipChamp:</strong>
-        <p style="margin-left: 20px;">
-            A ferramenta ClipChamp foi utilizada para a edição do áudio e do vídeo final.
-        </p>
-    </li>
-</ul>
+- **ElevenLabs:**
+  ElevenLabs é uma ferramenta de geração de narrações que permite escolher a voz do narrador e ajustar entonações e emoções. Utilizei o roteiro gerado pelo ChatGPT na plataforma ElevenLabs para criar a narração do podcast, ajustando as tonalidades das vozes escolhidas usando a função "Text to Speech".
+
+- **Leonard IA e Bing Image Create:**
+  Essas ferramentas foram usadas para gerar o plano de fundo visual do podcast.
+
+Além das IAs citadas, também foi utilizada a seguinte ferramenta:
+
+- **Microsoft ClipChamp:**
+  A ferramenta ClipChamp foi utilizada para a edição final do áudio e do vídeo.
+
 
 ## 🧐 Processo de Criação
 
