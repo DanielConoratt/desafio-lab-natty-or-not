@@ -33,7 +33,7 @@
 
 - (https://www.youtube.com/watch?v=-JkYA4U4gac)
 
-## 💭 Reflexão (Opcional)
+## 💡 Reflexão (Opcional)
 
 - As IAs vão auxiliar e muito os médicos em diagnósticos, cirurgias, monitoramento etc..
   Como toda a tecnologia, devemos usa-la para fazer o bem, precisamos ficar a tentos a esse detalhe. 
