@@ -16,7 +16,7 @@
 - **Leonard IA:**
   Essa ferramenta foi usada para gerar o plano de fundo visual do podcast.
 
-Além das IAs citadas, também foi utilizada a seguinte ferramenta:
+  Além das IAs citadas, também foi utilizada a seguinte ferramenta:
 
 - **Microsoft ClipChamp:**
   A ferramenta ClipChamp foi utilizada para a edição final do áudio e do vídeo.
