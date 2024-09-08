@@ -19,7 +19,7 @@
   Além das IAs citadas, também foi utilizada a seguinte ferramenta:
 
 - **Microsoft ClipChamp:**
-  A ferramenta ClipChamp foi utilizada para a edição final do áudio e do vídeo.
+  A ferramenta ClipChamp foi utilizada para a edição final do áudio e imagens.
 
 
 ## 🧐 Processo de Criação
